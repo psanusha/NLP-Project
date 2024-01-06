@@ -8,6 +8,8 @@ Model Input: Image
 
 Model Output: Text bounding boxes
 
+Model used: Model 1 - EAST(Efficient and Accurate Scene Text detection)
+            Model 2 - YOLO V8
 
 Dataset link:
 
